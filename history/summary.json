@@ -4,17 +4,19 @@
     "url": "https://apidiscord.l64.repl.co",
     "icon": "https://favicons.githubusercontent.com/apidiscord.l64.repl.co",
     "slug": "ap-icord-discord",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 260,
-    "timeDay": 260,
+    "timeDay": 294,
     "timeWeek": 260,
     "timeMonth": 260,
     "timeYear": 260,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-09": 0
+    }
   }
 ]
