@@ -4,19 +4,19 @@
     "url": "https://apidiscord.l64.repl.co",
     "icon": "https://favicons.githubusercontent.com/apidiscord.l64.repl.co",
     "slug": "ap-icord",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 278,
-    "timeDay": 278,
-    "timeWeek": 278,
-    "timeMonth": 278,
-    "timeYear": 278,
+    "status": "up",
+    "uptime": "99.55%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "99.55%",
+    "uptimeYear": "99.55%",
+    "time": 266,
+    "timeDay": 266,
+    "timeWeek": 266,
+    "timeMonth": 266,
+    "timeYear": 266,
     "dailyMinutesDown": {
-      "2021-08-10": 0
+      "2021-08-10": 5
     }
   }
 ]
