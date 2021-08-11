@@ -4,7 +4,7 @@ repo: status # The name of this repository
 
 sites:
   - name: APIcord
-    icon: httos://apicord.github.io/imgs/apicord.jpg
+    icon: httos://apicord.github.io/imgs/apicord.jpeg
     url: https://apidiscord.l64.repl.co
 
 status-website:
