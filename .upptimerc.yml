@@ -9,6 +9,7 @@ sites:
 status-website:
   baseUrl: /status
   logoUrl: https://apicord.github.io/imgs/apicon2.png
+  favicon: https://apicord.github.io/imgs/apicon2.png
   name: "APIcord Status"
   navbar:
     - title: Web
