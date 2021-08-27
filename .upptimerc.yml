@@ -16,6 +16,6 @@ status-website:
       href: /
   #theme: night
   themeUrl: https://apicord.github.io/css/status.css
-  css: "body{padding:2%;color:white;margin-left:auto;margin-right:auto;}.logo{width:5%}"
+  css: "body{padding:2%;color:white;margin-left:auto;margin-right:auto;}"
 
 skipDescriptionUpdate: false
