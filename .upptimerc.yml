@@ -18,5 +18,6 @@ status-website:
   themeUrl: https://apicord.github.io/css/status.css
   css: "body{padding:2%;color:white;margin-left:auto;margin-right:auto;}"
   introTitle: '<div style="text-align:center"><h3><a style="color:white" href="https://fosstodon.org/@APIcord/106999534653986122">APIcord has been discontinued</a></h3><hr></div>'
+  introMessage: "This website has been archived"
 
 skipDescriptionUpdate: false
